@@ -1,4 +1,5 @@
-import "./css/index.css"
+import "./css/index.css";
+import IMask from "imask";
 
 const ccBgcolor01 = document.querySelector(".cc-bg svg > g g:nth-child(1) path")
 const ccBgcolor02 = document.querySelector(".cc-bg svg > g g:nth-child(2) path")
